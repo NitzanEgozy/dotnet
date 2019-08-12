@@ -1,0 +1,6 @@
+Replication of a bug we encountered while developing a CLR profiler.
+In this example, we can see that two instances of a generic class Plugin.MyGenList`1 are loaded (for System.__Canon and System.String) and two are Unloaded (one is System.__Canon, the other is unknown - module already unloaded). The unknown and System.String instances have 2 different ClassIDs.
+
+Code samples taken from:
+https://github.com/dotnet/samples/tree/master/core/tutorials/Unloading
+https://github.com/microsoft/clr-samples/tree/master/ProfilingAPI/ELTProfiler

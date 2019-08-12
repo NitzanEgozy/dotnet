@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommand>C:\Program Files\dotnet\dotnet.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>$(SolutionDir)..\UnloadingApp\Host\bin\Debug\netcoreapp3.0\Host.dll</LocalDebuggerCommandArguments>
+    <LocalDebuggerEnvironment>CORECLR_ENABLE_PROFILING=1
+CORECLR_PROFILER={cf0d821e-299b-5307-a3d8-b283c03916dd}
+CORECLR_PROFILER_PATH=$(OutDir)ClrProfiler.dll</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
