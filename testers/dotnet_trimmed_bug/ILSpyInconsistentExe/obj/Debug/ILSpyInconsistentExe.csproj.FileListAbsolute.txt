@@ -1,0 +1,6 @@
+C:\Users\Egozy\source\repos\ILSpyInconsistentExe\bin\Debug\ILSpyInconsistentExe.exe.config
+C:\Users\Egozy\source\repos\ILSpyInconsistentExe\bin\Debug\ILSpyInconsistentExe.exe
+C:\Users\Egozy\source\repos\ILSpyInconsistentExe\bin\Debug\ILSpyInconsistentExe.pdb
+C:\Users\Egozy\source\repos\ILSpyInconsistentExe\obj\Debug\ILSpyInconsistentExe.csprojAssemblyReference.cache
+C:\Users\Egozy\source\repos\ILSpyInconsistentExe\obj\Debug\ILSpyInconsistentExe.exe
+C:\Users\Egozy\source\repos\ILSpyInconsistentExe\obj\Debug\ILSpyInconsistentExe.pdb
